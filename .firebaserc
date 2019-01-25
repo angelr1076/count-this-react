@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "react-count-this",
+    "staging": "count-this-react"
+  }
+}
